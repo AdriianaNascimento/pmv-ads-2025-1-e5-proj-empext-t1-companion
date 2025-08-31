@@ -1,25 +1,25 @@
-# TÍTULO DO PROJETO
+# Companion - Acompanhante Diário Inteligente
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Eixo 5 - Projeto: Desenvolvimento de um Sistema Sociotécnico Inovador
 
-`SEMESTRE`
+5º semestre / 2025
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adriana Pereira Nascimento 
+* Aaron Carvalho Balbino
+* Enzo Gomes Azevedo
+* Leonardo Rodrigues Barbosa Maia
 * Nome completo do aluno 5
 * Nome completo do aluno 6
 
 ## Orientador
 
-* Nome completo do professor orientador
+* Sandra Maria Silveira
 
 ## Instruções de utilização
 
